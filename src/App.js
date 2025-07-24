@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import GoalList from './components/GoalList';
-import AddGoalForm from './components/AddGoalForm';
+import GoalList from './components/Goallist';
+import AddGoalForm from './components/GoalForm';
 import DepositForm from './components/DepositForm';
 import Overview from './components/Overview';
 
